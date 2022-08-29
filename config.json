@@ -1,0 +1,194 @@
+{
+  "favicon": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+  "apple-touch-icon": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+  "meta": [
+    {"name": "description", "content": "Gaurav's Website"},
+    {"name": "theme-color", "content": "#000000"}
+  ],
+  "main-title": "Gaurav Nyaupane",
+  "full-name": "Gaurav Nyaupane",
+  "profile-pic": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+  "profile-alt": "Gaurav Nyaupane's photo",
+  "social-urls": [
+    {"name": "facebook", "url": "https://www.facebook.com/nightmaregaurav.nyaupane"},
+    {"name": "instagram", "url": "https://www.instagram.com/gauravnightmare/"},
+    {"name": "linkedin", "url": "https://www.linkedin.com/in/nightmaregaurav"},
+    {"name": "github", "url": "https://github.com/nightmaregaurav"},
+    {"name": "snapchat", "url": "https://www.snapchat.com/add/gauravnightmare"}
+  ],
+  "resume": "https://example.com",
+  "intro-pic": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+  "intro-words": [
+    "Fullstack Developer",
+    "Freelancer",
+    "Tech Enthusiast",
+    "IT Mentor"
+  ],
+  "about": {
+    "pic": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "image-alt": "Gaurav Nyaupane's photo",
+    "intro": "I am a fullstack developer and freelancer. I have been working in software development for the last 5 years. I have worked on various projects and have spearheaded various projects. I am always looking for new challenges to learn new technologies.",
+    "info": [
+      {"title": "Name", "text": "Gaurav Nyaupane"},
+      {"title": "Birth", "text": "December 19, 2000"},
+      {"title": "Address", "text": "Damak, Jhapa, Nepal"},
+      {"title": "Phone", "text": "+977 9816928313 (For emergencies only)"},
+      {"title": "Email", "text": "mail.gauravnyaupane@gmail.com (For Important Messages only)"},
+      {"title": "Website", "text": "https://www.gauravnyaupane.com.np"},
+      {"title": "Language", "text": "Nepali, English, Hindi"},
+      {"title": "Degree", "text": "Bachelors (Exams done, awaiting results)"},
+      {"title": "Freelance", "text": "Available"},
+      {"title": "Looking for", "text": "Full time Position"},
+      {"title": "Hourly Rate", "text": "$2.5"}
+    ],
+    "testimonials-intro": "Here's what my clients say about me.",
+    "testimonials": [
+      {
+        "name": "Gaurav Nyaupane",
+        "pic": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "company": "Company name",
+        "designation": "Software Engineer",
+        "on": "1 May 1995",
+        "said": "He is a nice developer.",
+        "highlight": "a nice developer"
+      }
+    ]
+  },
+  "education": {
+    "intro": "I started learning programming on my own. I started working on various projects and spearheaded various projects. Later, I joined BCA. Here's info about my education and academic achievements.",
+    "timeline": [
+      {
+        "title": "Bachelor of Computer Application",
+        "institute": "Mechi Multiple Campus",
+        "instituteUrl": "https://mechicampus.edu.np/",
+        "university": "Tribhuvan University",
+        "universityUrl": "http://www.tribhuvan-university.edu.np/",
+        "from": "2017",
+        "to": "2022",
+        "description": "BCA's core motive is production of highly qualified professionals who have both theoretical and practical knowledge in computer systems and its application.",
+        "achievements": [
+          "Been semester topper in 5 semesters.",
+          "Received 4 different Scholarships.",
+          "Attended 2 Workshops"
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "intro": "Intro text to show in experience section\", \"I have worked on various projects and spearheaded various projects. Here's info about my work experience.",
+    "timeline": [
+      {
+        "title": "Dot Net Developer",
+        "organization": "Crystal Solution",
+        "organizationUrl": "https://crystalsolution.com.np/",
+        "from": "Jan 2022",
+        "to": "Jul 2022",
+        "description": "Crystal solution is a software company that provides web development services to various clients. Their flagship Product is Crystal ERP which is a complete ERP system for small and medium sized businesses.",
+        "achievements": [
+          "Design and Development of Conference Management System",
+          "Unit Test, Integration Test",
+          "Bugs and Features Fixes and Launch of ERP"
+        ]
+      },
+      {
+        "title": "Software Developer Intern",
+        "organization": "Department of Computer Science and Application, Mechi Multiple Campus",
+        "organizationUrl": "https://mechicampus.edu.np/",
+        "from": "Mar 2021",
+        "to": "Oct 2022",
+        "description": "Mechi Multiple Campus is a constituent campus of Tribhuvan University in Bhadrapur municipality of Jhapa district. Founded in 1964, it is the only constituent campus of Tribhuvan University in the district.",
+        "achievements": [
+          "Design and Development of Education Management Information System (EMIS).",
+          "Leading team of 5 members of the project as EMIS project leader."
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "intro": "Open source projects I initiated or created are available on my GitHub profile. Some of my projects which are not listed in my GitHub public profile are listed below.",
+    "contents": [
+      {
+        "title": "Some Project",
+        "extLinks": [
+          {
+            "title": "Website",
+            "url": "http://www.example.com"
+          },
+          {
+            "title": "Github",
+            "url": "http://www.example.com"
+          }
+        ],
+        "imagesUrl":[
+          "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "https://apod.nasa.gov/apod/image/2202/AuroraPillars_Correia_960.jpg"
+        ],
+        "description": "A paragraph or two about your project.",
+        "majorPoints": [
+          {"title": "Achievement Title", "info": "Some Achievement"},
+          {"title": "Another Achievement Title", "info": "Some other Achievement"},
+          {"title": "A third Achievement Title", "info": "Better Achievement"},
+          {"title": "A fourth Achievement Title", "info": "Even Better Achievement"}
+        ],
+        "categories": [
+          "Category 1",
+          "Category 2",
+          "Category 3"
+        ]
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "name": "Beach",
+      "url": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+    }
+  ],
+  "services": {
+    "intro": "A Really long intro explaining in brief about your services.",
+    "contents": [
+      {
+        "title": "Some Service",
+        "icon": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "link": "https://www.example.com",
+        "description": "A short paragraph about your service."
+      }
+    ],
+    "perks": [
+      {
+        "title": "Some perk",
+        "icon": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      }
+    ]
+  },
+  "skills": {
+    "intro": "A Really long intro explaining in brief about your skills.",
+    "contents": [
+      {
+        "title": "HTML",
+        "percentage": "80"
+      },
+      {
+        "title": "CSS",
+        "percentage": "90"
+      },
+      {
+        "title": "JavaScript",
+        "percentage": "88"
+      },
+      {
+        "title": "PHP",
+        "percentage": "70"
+      },
+      {
+        "title": "WordPress",
+        "percentage": "67"
+      },
+      {
+        "title": "React",
+        "percentage": "68"
+      }
+    ]
+  },
+  "messageAPI": "https://example.com"
+}
