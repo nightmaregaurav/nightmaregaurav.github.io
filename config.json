@@ -922,36 +922,6 @@
         "categories": {
           "1": "Hacking Script"
         }
-      },
-      "22": {
-        "title": "Nepal Police News Crawler",
-        "extLinks": {
-          "1": {
-            "title": "GitHub",
-            "url": "https://github.com/nightmaregaurav/NepalPoliceNews-crawler"
-          }
-        },
-        "imagesUrl": {
-          "1": "https://nightmaregaurav.github.io/data/2023-10-22-12-27-59-T9DTcKXJRJ-2023-October-22%2012-27-30.jpg"
-        },
-        "description": "Crawls Nepal police website for news",
-        "majorPoints": {
-          "1": {
-            "title": "Tech",
-            "info": "Python, Github Action"
-          },
-          "2": {
-            "title": "Usage",
-            "info": "For Educational Purpose only"
-          },
-          "3": {
-            "title": "Note",
-            "info": "I and this tool are not affiliated with NepalPolice, Please take their permission before crawling using this tool on a regular basis"
-          }
-        },
-        "categories": {
-          "1": "Web Crawler"
-        }
       }
     },
     "intro": "I have taken great pride in my work and have dedicated a significant portion of my time to developing open-source projects. You can find all of the open-source projects I initiated or create on my GitHub profile.\n\nSome notable projects that I have created including a glance on some of the private ones are as follows."
